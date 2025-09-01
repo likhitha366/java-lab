@@ -1,4 +1,4 @@
-package Com.r9;
+package Com.t6;
 class parametarized_constructor{
     String Name;
     String section;
