@@ -1,5 +1,5 @@
 //polymorphism//overriding//polymorphism can be done only with same return type
-package Com.r9;
+package Com.t6;
 class RBI{
 	public double getRateOfInterest() {
 		return 5.0;
